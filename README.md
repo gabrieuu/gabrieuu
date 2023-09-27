@@ -34,6 +34,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
 
+## 🛠  Connect with me
 <div> 
   <a href = "mailto: gabriel.personal.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-barbosa-44149b207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
