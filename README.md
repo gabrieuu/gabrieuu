@@ -16,7 +16,7 @@
     />
 </div>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieuu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
